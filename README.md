@@ -1,1 +1,1 @@
-# Ogrenci-Gecis-Sistemi
+Patika.dev - Pratik
